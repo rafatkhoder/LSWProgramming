@@ -1,0 +1,30 @@
+Game description:
+
+This is a two-dimensional game. The player can move in all directions via the standard WASD control scheme and interact with the environment. For example, the player can interact with the objects surrounding him, such as the shops, houses, and trees. The game contains an inventory system through which the player can store, equip, buy, and sell the items acquired during gameplay. 
+
+About the gameplay:
+
+The game starts with a chest in vicinity containing an axe and startup coins. The player must approach the things to interact and click on them via the mouse cursor. The inventory can be accessed by pressing the P button. The player can equip the axe and cut down trees to get wood which can be later sold in the store. The player can also buy new items from the store. 
+
+Game coding and design:
+
+1- I generated the character and animated it
+2- I built the interaction between the mouse click and the environment
+3- I created the chest filled with initial inventory/equipment
+4- I built a store selling clothes
+5- I set up a grocery store selling vegetables
+6- I set up a merchant store to sell the goods in the possession of the player
+
+Design difficulties:
+
+I encountered few difficulties during the development:
+
+1. Obtaining the appropriate assets to design the environment for the game and the animation files for the player
+2. Some concepts were new for me
+
+This was really a great experience that taught me a lot and got me exposed to the 2D simulation genre. I can now code and design better games. I hope that you review my task and that we work together. I am eager to contribute to the team and help you achieve your goals and projects.
+
+Thank you very much for your time and really looking forward to hearing from you!
+
+Best,
+Rafet
