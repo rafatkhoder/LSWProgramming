@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56825df30ba2b0d4ba1066de00e14faf, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  storeItems:
+  - storeItemsImg: {fileID: 8766740682603709380, guid: 0e9170b4374bf5044a6feca0ccbcd55a, type: 3}
+    storeItemsName: BagCoin
+    storeItemsCount: 1
+    itemPrice: 100
+    itemState: 0
+  - storeItemsImg: {fileID: 6525596163956550304, guid: d6f51486401aa454aa15a188bf25a3b2, type: 3}
+    storeItemsName: Axe
+    storeItemsCount: 1
+    itemPrice: 5
+    itemState: 0

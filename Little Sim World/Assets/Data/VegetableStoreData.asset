@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56825df30ba2b0d4ba1066de00e14faf, type: 3}
+  m_Name: VegetableStoreData
+  m_EditorClassIdentifier: 
+  storeItems:
+  - storeItemsImg: {fileID: 535240836, guid: 82c8ecf54cdd52042b173e08e8540933, type: 3}
+    storeItemsName: Cauliflower
+    storeItemsCount: 0
+    itemPrice: 2
+    itemState: 0
+  - storeItemsImg: {fileID: 1379661056, guid: 82c8ecf54cdd52042b173e08e8540933, type: 3}
+    storeItemsName: Strawberry
+    storeItemsCount: 0
+    itemPrice: 20
+    itemState: 0
+  - storeItemsImg: {fileID: -308242117, guid: 82c8ecf54cdd52042b173e08e8540933, type: 3}
+    storeItemsName: Squash
+    storeItemsCount: 0
+    itemPrice: 15
+    itemState: 0
+  - storeItemsImg: {fileID: 4652486491411619603, guid: 5e600f920a0664149b03b6c074709e66, type: 3}
+    storeItemsName: Corn
+    storeItemsCount: 0
+    itemPrice: 50
+    itemState: 0
+  - storeItemsImg: {fileID: -2873419383981771206, guid: 5e600f920a0664149b03b6c074709e66, type: 3}
+    storeItemsName: Potato
+    storeItemsCount: 0
+    itemPrice: 30
+    itemState: 0

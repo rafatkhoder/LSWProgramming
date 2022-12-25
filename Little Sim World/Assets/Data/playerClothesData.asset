@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56825df30ba2b0d4ba1066de00e14faf, type: 3}
+  m_Name: playerClothesData
+  m_EditorClassIdentifier: 
+  storeItems:
+  - storeItemsImg: {fileID: 7152930139536384079, guid: 098863953f378a643aeb0b8f11c804a7, type: 3}
+    storeItemsName: RedHero
+    storeItemsCount: 0
+    itemPrice: 11
+    itemState: 0
+  - storeItemsImg: {fileID: -1711389909, guid: 56f423053f2578644a8004350875f44a, type: 3}
+    storeItemsName: PinkHero
+    storeItemsCount: 0
+    itemPrice: 33
+    itemState: 0
+  - storeItemsImg: {fileID: 1278447521, guid: 830a534d1d67984438ddaa3603fd70cf, type: 3}
+    storeItemsName: BlueHero
+    storeItemsCount: 0
+    itemPrice: 44
+    itemState: 0
